@@ -1,0 +1,14 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Its homework 3 for CS454",
+  "main": "Homework3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Soumik Shah <soumik.shah@gmail.com>",
+  "license": "MIT"
+}
